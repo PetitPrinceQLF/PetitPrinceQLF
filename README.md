@@ -47,3 +47,7 @@ If you see "PetitPrince" on a server or website, there's a good chance it's me �
 
 ### Contact  
 Feel free to explore my projects or reach out, **we're all here to learn and share!** ✌️  
+
+---
+
+<!--<img align ="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PetitPrinceQLF&show_icons=true&count_private=true&include_all_commits=true&title_color=0099ff&text_color=0099ff&icon_color=ED9A09&bg_color=000d&hide_border=true"/>-->

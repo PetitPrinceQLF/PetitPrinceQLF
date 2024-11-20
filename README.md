@@ -4,7 +4,7 @@
 
 - 🗓️ **Age:** 23 years old  
 - 🏡 **Location:** Le Mans, France  
-- 🌍 **Nationality:** French 🇫🇷  
+- 🌍 **Nationality:** French 🥖 [🔵⚪🔴] 
 - ☀️ **Born in August (a true Leo 🦁)**  
 
 ---

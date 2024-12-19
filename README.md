@@ -1,52 +1,60 @@
-# 👑 Welcome to my profile!  
+# 👑 Bienvenue sur mon profil !  
 
-## Hi, I'm **Rudy David**, aka **PetitPrinceQLF** 🌟  
+## Bonjour, moi c’est **Rudy David** 🌟  
 
-- 🗓️ **Age:** 23 years old  
-- 🏡 **Location:** Le Mans, France  
-- 🌍 **Nationality:** French 🥖 [🔵⚪🔴] 
-- ☀️ **Born in August (a true Leo 🦁)**  
-
----
-
-### 🌌 Why **PetitPrince**?  
-It all started with the famous **Petit Prince** by Antoine de Saint-Exupéry, a book that marked my childhood.  
-This nickname followed me in my early online adventures (games and websites).  
-
-But why **PetitPrinceQLF** here?  
-Well... **PetitPrince** was already taken 😅, so I added a nod to the rap group PNL with **QLF** *(Que La Famille)*.  
+- 🗓️ **Âge :** 23 ans (et toutes mes dents 🦷)  
+- 🏡 **Lieu :** Le Mans, France (la ville des rillettes, mais pas que !)  
+- 🌍 **Nationalité :** Française 🥖 [🔵⚪🔴]  
+- ☀️ **Né en août (un vrai Lion 🦁)**  
 
 ---
 
-### 🔧 A tech enthusiast 🖥️  
-I've been passionate about IT since childhood. Today, it's also my profession 🎓.  
-Always seeking new skills and projects to work on!  
+### 🌌 Pourquoi **PetitPrince** ?  
+Ah, mon pseudo… Tout a commencé avec le célèbre **Petit Prince** d’Antoine de Saint-Exupéry, un livre qui a marqué mon enfance.  
+Ce pseudo m’a suivi dans mes premières aventures en ligne (jeux, sites web, et quelques tentatives ratées de piratage 😅).  
+
+Mais pourquoi **PetitPrinceQLF** ici ?  
+Eh bien... **PetitPrince** était déjà pris (oui, incroyable mais vrai), alors j’ai ajouté un clin d’œil au groupe de rap PNL avec **QLF** *(Que La Famille)*.  
+
+Si vous croisez un « PetitPrince » quelque part, c’est peut-être moi… ou un imposteur 👀.  
 
 ---
 
-### 💪 Sports and self-improvement  
-Outside of keyboards and screens, I practice **powerlifting** 🏋️‍♂️ for over a year now.  
-This sport helps me push my limits and maintain a balance between body and mind.  
-
-It allows me to become the best version of myself day by day, with future **competition** goals.  
-*(By the way, you can follow me on [Instagram](https://www.instagram.com/rudydavid01/) to see my progress 👀!)*  
+### 🔧 Ingénieur système en formation 🎓  
+Actuellement étudiant en **ingénierie système** au CESI au Mans, je travaille également chez **DRI** 🍃 en tant qu’administrateur système.  
+Vous pouvez en savoir plus sur mon parcours en consultant ma page **CV** (allez-y, je ne mords pas 🦁).  
 
 ---
 
-### 🌍 **My Discord Community**  
-I created my own little **Discord community** where I share projects, commits, and server updates.  
-You'll find, among other things, game servers I manage and develop, like my **Minecraft server**.  
-Feel free to join us: [Discord Server](https://discord.gg/6ffyCYq3Ea) 🎮  
+### 🖥️ Un passionné de technologie  
+Je suis tombé dans l’informatique quand j’étais petit (pas de potion magique, juste un PC familial).  
+Aujourd’hui, c’est aussi mon métier 🎓.  
+
+Toujours à la recherche de nouvelles compétences et de projets cool sur lesquels travailler !  
 
 ---
 
-### 🚀 Fun fact  
-If you see "PetitPrince" on a server or website, there's a good chance it's me 👀. Otherwise... someone stole my idea!  
+### 💪 Sport et dépassement de soi  
+En dehors des claviers et des écrans, je pratique la **force athlétique** 🏋️‍♂️ depuis plus d’un an maintenant.  
+Ce sport m’aide à repousser mes limites et à maintenir un équilibre entre le corps et l’esprit.  
+
+Cela me permet de devenir la meilleure version de moi-même jour après jour, avec des objectifs de **compétition** futurs.  
+*(D’ailleurs, vous pouvez me suivre sur [Instagram](https://www.instagram.com/rudydavid01/) pour voir mes progrès 👀 !)*  
 
 ---
 
-### Contact  
-Feel free to explore my projects or reach out, **we're all here to learn and share!** ✌️  
+### 🌍 Ma communauté Discord  
+J’ai monté ma propre petite **communauté Discord** où je partage des projets, des commits…  
+Vous y trouverez aussi des **serveurs de jeux** que je gère et développe.  
+
+Venez nous rejoindre si ça vous dit : [Serveur Discord](https://discord.gg/6ffyCYq3Ea).  
+
+---
+
+### 📬 Contact  
+Vous avez une idée, un projet ou juste envie de discuter ?  
+
+N’hésitez pas à explorer mes projets ou à me contacter, je suis toujours partant pour apprendre et partager ! ✌️  
 
 ---
 

@@ -1,6 +1,6 @@
 # 👑 Bienvenue sur mon profil !  
 
-## Bonjour, moi c’est **Rudy David** 🌟  
+## Bonjour, moi c’est **Rudy** 🌟  
 
 - 🗓️ **Âge :** 23 ans (et toutes mes dents 🦷)  
 - 🏡 **Lieu :** Le Mans, France (la ville des rillettes, mais pas que !)  
